@@ -18,7 +18,7 @@ const Profile = (props) => {
 };
 
 Profile.defaultProps = {
-  fullName: "Abedneebi Wael",
+  fullName: "habib chamakhi",
   profession: "Full Stack Developer",
   bio:
     "A Full Stack Developer  ",
